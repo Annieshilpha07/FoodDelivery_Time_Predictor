@@ -7,7 +7,7 @@ The food delivery industry has seen rapid growth in recent years, driven by adva
   
 ## Hugging Face - Live Link
 
- #### Check out the live application on Hugging Face: [Food Delivery Time Predictor](https://huggingface.co/spaces/Annie07/Time_Prediction)
+ ### Check out the live application on Hugging Face: [Food Delivery Time Predictor](https://huggingface.co/spaces/Annie07/Time_Prediction)
 
 ## Problem Statement
 ### Challenge
