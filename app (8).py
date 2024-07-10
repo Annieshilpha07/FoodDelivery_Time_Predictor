@@ -5,13 +5,6 @@ import streamlit as st
 from sklearn.preprocessing import LabelEncoder
 from geopy.geocoders import Nominatim
 
-import pickle
-import pandas as pd
-import numpy as np
-import streamlit as st
-from sklearn.preprocessing import LabelEncoder
-from geopy.geocoders import Nominatim
-
 # Load the model
 with open('model_rf.pkl', 'rb') as file:
     model_rf = pickle.load(file)
