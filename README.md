@@ -4,7 +4,9 @@
 The food delivery industry has seen rapid growth in recent years, driven by advancements in technology and changing consumer habits. However, one of the significant challenges within this domain is accurately predicting delivery times to ensure customer satisfaction and optimize delivery operations.
 ## Domain
 - Food Delivery
- ## Hugging face -[ Live Link]([url](https://huggingface.co/spaces/Annie07/Time_Prediction))
+- 
+ ## Hugging Face - Live Link
+Check out the live application on Hugging Face: [Food Delivery Time Predictor](https://huggingface.co/spaces/Annie07/Time_Prediction)
 
 ## Problem Statement
 ### Challenge
@@ -89,8 +91,6 @@ This project proposes a machine learning-based solution to predict food delivery
 ### Quantified Impact
 - Potential to reduce customer complaints related to delivery times by 20%.
 - Expected 10% reduction in overall delivery costs.
-
-##  Dataset Link
 
 ### Dataset Link
 - [Food Delivery Dataset - Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset?select=train.csv))
