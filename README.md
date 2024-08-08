@@ -1,14 +1,12 @@
 # Food Delivery Time Predictor - From Order to Arrival!
 
+##  Live application: [Food Delivery Time Predictor- Hugging face Link](https://huggingface.co/spaces/Annie07/Time_Prediction)
+
 ## Introduction
 The food delivery industry has seen rapid growth in recent years, driven by advancements in technology and changing consumer habits. However, one of the significant challenges within this domain is accurately predicting delivery times to ensure customer satisfaction and optimize delivery operations.
 ## Domain
   Food Delivery
   
-## Hugging Face - Live Link
-
- ### Check out the live application on Hugging Face: [Food Delivery Time Predictor](https://huggingface.co/spaces/Annie07/Time_Prediction)
-
 ## Problem Statement
 ### Challenge
 The primary challenge addressed by this project is the accurate prediction of food delivery duration. Misestimations can lead to customer dissatisfaction, decreased operational efficiency, and potential financial losses.
